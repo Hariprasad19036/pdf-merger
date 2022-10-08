@@ -1,0 +1,2 @@
+tabs: ['README.md', 'pdfmerger.py', 'templates/home.html', 'static/style.css']
+terminal-one: flask --app pdfmerger.py --debug run
